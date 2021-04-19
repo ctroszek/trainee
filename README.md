@@ -1,2 +1,2 @@
-# trainee
-trainee/src/main/
+# trainee-java
+trainee/src/main/java
