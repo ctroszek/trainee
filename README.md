@@ -1,0 +1,2 @@
+# trainee
+trainee/src/main/
